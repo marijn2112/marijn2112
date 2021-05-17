@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @marijn2112
-- 👀 I’m interested in history, politics, music and tech.
+- 👋 Hi, I’m @marijn2112 or normally known as marijn211
+- 👀 I’m interested in history, politics, music and tech, if you need to know what parts to get for a gaming PC I'm the guy to ask.
 - 🌱 I’m currently learning Python, R and Prolog in school although I only really use LUA in my free time.
 
 <!---
